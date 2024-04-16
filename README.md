@@ -5,7 +5,7 @@
 
   ##
   <div style="display: inline_block"><br>
-   <strong>Languages and Tools...</strong>
+   <strong>💫Linguagens e ferramentas</strong>
   <br><br>
   
   <img align="center" alt="HTML" height="30" width="60" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -15,9 +15,22 @@
   <img align="center" alt="MySQL" height="30" width="80" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="GIT" height="30" width="60"src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img align="center" alt="Static Badge" height="30" width="60" src="https://img.shields.io/badge/php%20-%20%231572B6?style=for-the-badge&logo=php&link=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FPHP%23%2Fmedia%2FFicheiro%3APHP-logo.svg">
+ </div>
 
-                
+ ##
+<div style="display: inline_block"><br>
+   <strong>👤Minhas redes</strong>
+  <br><br>
+
+<a style="text-decoration: none" href="https://www.instagram.com/monni.05/" target="_blank"><img align="center" height="20" width="100" alt="Static Badge" src="https://img.shields.io/badge/Instagram%20-%20black?style=flat&logo=instagram&link=https%3A%2F%2Fwww.instagram.com%2Fmonni.05%2F">
+</a>
+<a style="text-decoration: none" href="https://www.linkedin.com/in/guilherme-monni-a542a9244/" target="_blank"><img align="center" height="20" width="80" alt="Static Badge" src="https://img.shields.io/badge/Linkedin%20-%20black?style=flat&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fguilherme-monni-a542a9244%2F">
+</a>
+<a style="text-decoration: none" href="https://twitter.com/monni_02" target="_blank"><img align="center" height="20" width="40" alt="Static Badge" src="https://img.shields.io/badge/X%20-%20black?style=flat&logo=x&link=https%3A%2F%2Ftwitter.com%2Fmonni_02">
+</a>
 </div>
+
+
 
 <!---
 GuilhermeMonni/GuilhermeMonni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
