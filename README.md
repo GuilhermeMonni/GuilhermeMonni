@@ -1,7 +1,7 @@
 👽 Seja bem vindo! Meu nome é Guilherme Monni. <br>
 
  Estou cursando Análise e Desenvolvimento de Sistemas. Tenho o objetivo de me tornar Front-end futuramente.
- - Procuro oportunidades para ingressar na área da tecnologia!
+ - Disponivel para oportunidades de trabalho!
 
   ##
   <div style="display: inline_block"><br>
