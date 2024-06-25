@@ -8,13 +8,14 @@
    <strong>💫Linguagens e ferramentas</strong>
   <br><br>
   
-  <img align="center" alt="HTML" height="30" width="60" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="CSS" height="30" width="60" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Js" height="30" width="90" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="MySQL" height="30" width="80" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="GIT" height="30" width="60"src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-  <img align="center" alt="Static Badge" height="30" width="60" src="https://img.shields.io/badge/php%20-%20%231572B6?style=for-the-badge&logo=php&link=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FPHP%23%2Fmedia%2FFicheiro%3APHP-logo.svg">
- </div>
+  <img alt="Static Badge" height="25" width="70" src="https://img.shields.io/badge/HTML%20-%20black?style=plastic&logo=html5">
+  <img alt="Static Badge" height="25" width="70" src="https://img.shields.io/badge/CSS%20-%20black?style=plastic&logo=css3&logoColor=blue">
+  <img alt="Static Badge" height="25" width="70" src="https://img.shields.io/badge/JavaScript%20-%20black?style=plastic&logo=javascript">
+  <img alt="Static Badge" height="25" width="70" src="https://img.shields.io/badge/MySql%20-%20black?style=plastic&logo=mysql">
+  <img alt="Static Badge" height="25" width="70" src="https://img.shields.io/badge/GIT%20-%20black?style=plastic&logo=git">
+  <img alt="Static Badge" height="25" width="70" src="https://img.shields.io/badge/PHP%20-%20black?style=plastic&logo=php">
+  <img alt="Static Badge" height="25" width="70" src="https://img.shields.io/badge/React%20-%20black?style=plastic&logo=react">
+  <img alt="Static Badge" height="25" width="70" src="https://img.shields.io/badge/Node%20-%20black?style=plastic&logo=node.js">
 
  ##
 <div style="display: inline_block"><br>
