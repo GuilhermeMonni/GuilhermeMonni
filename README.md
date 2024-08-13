@@ -1,4 +1,4 @@
-👽 Seja bem vindo! Meu nome é Guilherme Monni. <br>
+👽 Seja bem vindo! Me chamo Guilherme Monni. <br>
 
  Estou cursando Análise e Desenvolvimento de sistemas na escola QI tecnologia. Faço cursos online para me especializar como desenvolvedor.
  - Disponivel para oportunidades de trabalho!
