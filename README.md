@@ -13,7 +13,6 @@
   <img alt="Static Badge" height="25" width="70" src="https://img.shields.io/badge/JavaScript%20-%20black?style=plastic&logo=javascript">
   <img alt="Static Badge" height="25" width="70" src="https://img.shields.io/badge/MySql%20-%20black?style=plastic&logo=mysql">
   <img alt="Static Badge" height="25" width="70" src="https://img.shields.io/badge/GIT%20-%20black?style=plastic&logo=git">
-  <img alt="Static Badge" height="25" width="70" src="https://img.shields.io/badge/PHP%20-%20black?style=plastic&logo=php">
   <img alt="Static Badge" height="25" width="70" src="https://img.shields.io/badge/React%20-%20black?style=plastic&logo=react">
   <img alt="Static Badge" height="25" width="70" src="https://img.shields.io/badge/Node%20-%20black?style=plastic&logo=node.js">
 
