@@ -5,7 +5,7 @@
 - Estou cursando tecnólogo em Análise e Desenvolvimento de sistemas na escola QI tecnologia e bacharelado em Ciência da Computação na Cruzeiro do Sul.
 
   ##
-  <div style="display: inline_block"><br>
+  <div><br>
    <strong>💫Linguagens e ferramentas</strong>
   <br><br>
 
