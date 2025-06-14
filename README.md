@@ -5,27 +5,25 @@
 - Estou cursando tecnólogo em Análise e Desenvolvimento de sistemas na escola QI tecnologia e bacharelado em Ciência da Computação na Cruzeiro do Sul.
 
   ##
-  <div><br>
+  <br>
    <strong>💫Linguagens e ferramentas</strong>
-  <br><br>
+<img alt="Static Badge" src="https://img.shields.io/badge/HTML-black?style=flat&logo=HTML5&logoColor=red">
+<img alt="Static Badge" src="https://img.shields.io/badge/CSS-black?style=flat&logo=CSS&logoColor=blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript&logoColor=yellow">
+<img alt="Static Badge" src="https://img.shields.io/badge/PHP-black?style=flat&logo=PHP&logoColor=%23777BB4">
+<img alt="Static Badge" src="https://img.shields.io/badge/MySQL-black?style=flat&logo=MySQL&logoColor=%234479A1">
+<img alt="Static Badge" src="https://img.shields.io/badge/Git-black?style=flat&logo=Git&logoColor=%23F05032">
 
- <!-- HTML -->
-<img alt="Static Badge" src="https://img.shields.io/badge/HTML-black?style=flat&logo=HTML5&logoColor=red" style="min-width:50px;">
+##
 
-<!-- CSS -->
-<img alt="Static Badge" src="https://img.shields.io/badge/CSS-black?style=flat&logo=CSS&logoColor=blue" style="min-width:50px;">
-
-<!-- JavaScript -->
-<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript&logoColor=yellow" style="min-width:50px;">
-
-<!-- PHP -->
-<img alt="Static Badge" src="https://img.shields.io/badge/PHP-black?style=flat&logo=PHP&logoColor=%23777BB4" style="min-width:50px;">
-
-<!-- MySQL -->
-<img alt="Static Badge" src="https://img.shields.io/badge/MySQL-black?style=flat&logo=MySQL&logoColor=%234479A1" style="min-width:50px;">
-
-<!-- Git -->
-<img alt="Static Badge" src="https://img.shields.io/badge/Git-black?style=flat&logo=Git&logoColor=%23F05032" style="min-width:50px;">
+</div
+   <strong>🖇️Minhas redes</strong>
+<div> 
+ 
+  <a href="https://www.instagram.com/monni.05/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guilherme-monni-a542a9244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
 
 <!---
