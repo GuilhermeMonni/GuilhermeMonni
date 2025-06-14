@@ -1,6 +1,6 @@
 👽 Seja bem vindo! Me chamo Guilherme Monni. <br>
 
- Aqui armazeno projetos nos quais eu trabalhei e trabalho. Seja projetos pessoais ou trabalho para a faculdade. Busco cada vez mais por conhecimento para agregar meus estudos, e também para buscar oportunidades para ganhar experiência na área. Sou um entusiata por tecnologia, onde procuro por notícias e atualizações diárias sobre este nicho. No momento sou metalúrgico, e busco pela minha primeira oportunidade na área da tecnologia.
+ Aqui armazeno projetos nos quais eu trabalhei e trabalho. Seja projetos pessoais ou trabalhos para a faculdade. Busco cada vez mais por conhecimento para agregar meus estudos, e também para buscar oportunidades para ganhar experiência na área. Sou um entusiata por tecnologia, onde procuro por notícias e atualizações diárias sobre este nicho. No momento sou metalúrgico, e busco pela minha primeira oportunidade na área da tecnologia.
 
 - Estou cursando tecnólogo em Análise e Desenvolvimento de sistemas na escola QI tecnologia e bacharelado em Ciência da Computação na Cruzeiro do Sul.
 
