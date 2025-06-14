@@ -7,19 +7,21 @@
   ##
   <br>
    <strong>💫Linguagens e ferramentas</strong>
-<img alt="Static Badge" src="https://img.shields.io/badge/HTML-black?style=flat&logo=HTML5&logoColor=red">
-<img alt="Static Badge" src="https://img.shields.io/badge/CSS-black?style=flat&logo=CSS&logoColor=blue">
-<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript&logoColor=yellow">
-<img alt="Static Badge" src="https://img.shields.io/badge/PHP-black?style=flat&logo=PHP&logoColor=%23777BB4">
-<img alt="Static Badge" src="https://img.shields.io/badge/MySQL-black?style=flat&logo=MySQL&logoColor=%234479A1">
-<img alt="Static Badge" src="https://img.shields.io/badge/Git-black?style=flat&logo=Git&logoColor=%23F05032">
+   <br><br>
+   <div>
+      <img alt="Static Badge" src="https://img.shields.io/badge/HTML-black?style=flat&logo=HTML5&logoColor=red">
+      <img alt="Static Badge" src="https://img.shields.io/badge/CSS-black?style=flat&logo=CSS&logoColor=blue">
+      <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript&logoColor=yellow">
+      <img alt="Static Badge" src="https://img.shields.io/badge/PHP-black?style=flat&logo=PHP&logoColor=%23777BB4">
+      <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-black?style=flat&logo=MySQL&logoColor=%234479A1">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Git-black?style=flat&logo=Git&logoColor=%23F05032">
+   </div>
 
-##
-
-</div
-   <strong>🖇️Minhas redes</strong>
-<div> 
- 
+  ##
+  <br>
+   <strong>🖇️Linguagens e ferramentas</strong>
+   <br><br>
+   <div> 
   <a href="https://www.instagram.com/monni.05/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-monni-a542a9244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
