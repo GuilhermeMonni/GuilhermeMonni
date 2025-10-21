@@ -13,8 +13,9 @@
       <img alt="Static Badge" src="https://img.shields.io/badge/CSS-black?style=flat&logo=CSS&logoColor=blue">
       <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript&logoColor=yellow">
       <img alt="Static Badge" src="https://img.shields.io/badge/NodeJS%20-%20black?style=flat&logo=node.js&logoColor=green&logoSize=auto">
+    <img alt="Static Badge" src="https://img.shields.io/badge/React-black?style=flat&logo=React&logoColor=%2361DAFB">
       <img alt="Static Badge" src="https://img.shields.io/badge/PHP-black?style=flat&logo=PHP&logoColor=%23777BB4">
-      <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-black?style=flat&logo=MySQL&logoColor=%234479A1">
+      <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-black?style=flat&logo=PostgreSQL&logoColor=%234169E1">
       <img alt="Static Badge" src="https://img.shields.io/badge/Git-black?style=flat&logo=Git&logoColor=%23F05032">
    </div>
 
